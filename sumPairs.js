@@ -32,5 +32,5 @@ function getPairsOfNumbers(arrayValues, sum) {
 }
 
 console.log(getPairsOfNumbers(firstArray, 1)); //X: 1
-console.log(getPairsOfNumbers(firstArray, 15)); //X: 15
-console.log(getPairsOfNumbers(firstArray, 42)); //X: 42
+console.log(getPairsOfNumbers(secondArray, 15)); //X: 15
+console.log(getPairsOfNumbers(thirdArray, 42)); //X: 42
